@@ -1,0 +1,34 @@
+2025-07-12 22:35:41,058 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-12 22:35:43,503 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-12 22:35:44,457 - INFO - Phone migrated to 4
+2025-07-12 22:35:44,460 - INFO - Reconnecting to new data center 4
+2025-07-12 22:35:44,607 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-12 22:35:44,612 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-12 22:35:44,614 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 22:35:46,722 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 22:35:47,620 - INFO - تم بدء تشغيل البوت
+2025-07-12 22:35:47,631 - INFO - لا توجد حسابات محفوظة للبدء
+2025-07-12 22:35:48,117 - INFO - البوت جاهز للاستخدام!
+2025-07-12 22:38:17,495 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-12 22:38:20,040 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-12 22:38:21,423 - INFO - Phone migrated to 4
+2025-07-12 22:38:21,544 - INFO - Reconnecting to new data center 4
+2025-07-12 22:38:21,596 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-12 22:38:21,601 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-12 22:38:21,603 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 22:38:24,871 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 22:38:43,872 - ERROR - خطأ في التحقق من الرمز: The confirmation code has expired (caused by SignInRequest)
+2025-07-12 22:38:54,487 - ERROR - خطأ في التحقق من الرمز: You also need to provide a phone_code_hash.
+2025-07-12 22:46:12,839 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 22:46:12,972 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 22:46:14,295 - INFO - تم بدء تشغيل البوت
+2025-07-12 22:46:14,312 - INFO - لا توجد حسابات محفوظة للبدء
+2025-07-12 22:46:14,507 - INFO - البوت جاهز للاستخدام!
+2025-07-12 22:47:47,325 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 22:47:47,412 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 22:48:05,584 - ERROR - خطأ في التحقق من الرمز: The confirmation code has expired (caused by SignInRequest)
+2025-07-12 23:33:38,251 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-12 23:33:38,384 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-12 23:33:39,236 - INFO - تم بدء تشغيل البوت
+2025-07-12 23:33:39,259 - INFO - لا توجد حسابات محفوظة للبدء
+2025-07-12 23:33:39,448 - INFO - البوت جاهز للاستخدام!

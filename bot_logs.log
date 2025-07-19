@@ -1,0 +1,41 @@
+2025-07-13 00:25:14,600 - __main__ - INFO - تم تهيئة البوت بنجاح
+2025-07-13 00:25:14,611 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-13 00:25:14,710 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-13 00:25:15,525 - __main__ - INFO - تم تشغيل البوت بنجاح!
+2025-07-13 00:27:16,670 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-13 00:27:18,726 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-13 00:27:19,446 - telethon.client.users - INFO - Phone migrated to 4
+2025-07-13 00:27:19,447 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-07-13 00:27:19,767 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-13 00:27:19,769 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-13 00:27:19,770 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-13 00:27:22,644 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-13 00:27:23,207 - __main__ - ERROR - Error in add_session: 'dict' object has no attribute 'SUBCLASS_OF_ID'
+Traceback (most recent call last):
+  File "<string>", line 121, in add_session
+  File "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.13/site-packages/telethon/tl/custom/message.py", line 779, in reply
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        await self.get_input_chat(), *args, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.13/site-packages/telethon/client/messages.py", line 920, in send_message
+    reply_markup=self.build_reply_markup(buttons),
+                 ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.13/site-packages/telethon/client/buttons.py", line 81, in build_reply_markup
+    if button.SUBCLASS_OF_ID == 0xbad74a3:
+       ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'SUBCLASS_OF_ID'
+2025-07-13 15:03:00,513 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-13 15:03:02,392 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-13 15:03:03,103 - telethon.client.users - INFO - Phone migrated to 4
+2025-07-13 15:03:03,105 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-07-13 15:03:03,312 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-13 15:03:03,314 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-13 15:03:03,314 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-13 15:03:05,363 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-13 15:03:19,520 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-13 15:03:19,525 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-13 15:03:44,305 - __main__ - INFO - تم تهيئة البوت بنجاح
+2025-07-13 15:03:44,313 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-13 15:03:44,496 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-13 15:03:45,822 - __main__ - INFO - تم تشغيل البوت بنجاح!
